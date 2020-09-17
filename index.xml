@@ -7,12 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://summerking.github.io/july/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>First</title>
+      <link>https://summerking.github.io/july/first/</link>
+      <pubDate>Wed, 16 Sep 2020 21:19:23 +0800</pubDate>
+      
+      <guid>https://summerking.github.io/july/first/</guid>
+      <description>My first blog 1.ddd 2.eee 3.fff</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://summerking.github.io/july/about/</link>
       <pubDate>Wed, 16 Sep 2020 21:17:23 +0800</pubDate>
       
       <guid>https://summerking.github.io/july/about/</guid>
-      <description>My first blog 1.aaa 2.bbb 3.ccc</description>
+      <description>About 1.aaa 2.bbb 3.ccc</description>
     </item>
     
   </channel>
